@@ -11,6 +11,7 @@ test-config.edn
 profiles.clj
 /.env
 .nrepl-port
+docker-compose.yml
 
 /node_modules
 /log
